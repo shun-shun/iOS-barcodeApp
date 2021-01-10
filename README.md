@@ -25,19 +25,19 @@ import RSBarcodes_Swift
 import AVFoundation
 ```
 
-3. バーコードを生成したい場合は、以下のようになります。
+3. バーコードを生成したい場合は、以下のようになります
 ```
 RSUnifiedCodeGenerator.shared.generateCode("20201010", machineReadableCodeObjectType: AVMetadataObject.ObjectType.code128.rawValue)!
 ```
-これらのソースはプロジェクトにありますのでご確認ください。
+**これらのソースはプロジェクトにありますのでご確認ください。**
 
 ## 注意
-1. 以下のバージョンにて作成しております。
+1. 以下のバージョンにて作成しております
 - Xcode：12.3
-- Swift:5.3.2
-※記載以外のXcode、もしくはSwiftのバージョンでは動作しない可能性があります。ご了承ください。
+- Swift:5.3.2  
+※記載以外のバージョンでは動作しない可能性がありますので、ご了承ください。
 
-2. このプロジェクトはMIT LICENSEを取得しております。  
+2. このプロジェクトはMIT LICENSEを取得しております  
 一定の条件の下でソフトウェアの使用、複製、改変、（複製物または二次的著作物の）再頒布を認めます。  
 ご利用される場合はご注意ください。 詳しくは[こちら](https://qiita.com/shibukk/items/67ad0a5eda5a94e5c032)
 
