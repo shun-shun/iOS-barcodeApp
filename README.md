@@ -1,10 +1,11 @@
-# 【iOSゼミ】iOSバーコードアプリ
+# 【iOSゼミ】バーコードアプリ
 [![issues](https://img.shields.io/github/issues/shun-shun/iOS-barcodeApp)](https://img.shields.io/github/issues/shun-shun/iOS-barcodeApp)
 [![forks](https://img.shields.io/github/forks/shun-shun/iOS-barcodeApp)](https://img.shields.io/github/forks/shun-shun/iOS-barcodeApp)
 [![stars](https://img.shields.io/github/stars/shun-shun/iOS-barcodeApp)](https://img.shields.io/github/stars/shun-shun/iOS-barcodeApp)
 [![lisence](https://img.shields.io/github/license/shun-shun/iOS-barcodeApp)](https://img.shields.io/github/license/shun-shun/iOS-barcodeApp)
 ## 目的
-iOSゼミ生が参考するためのバーコードアプリを作成です。動作確認やソースを確認しながらご覧ください。
+iOSゼミ生が参考するためのバーコードアプリを作成です。動作確認やソースを確認しながらご覧ください。  
+**ただバーコードが表示されるアプリです**  
 私が利用したライブラリは[こちら](https://github.com/yeahdongcn/RSBarcodes_Swift)
 
 ## 導入方法
