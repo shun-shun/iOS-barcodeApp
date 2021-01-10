@@ -28,7 +28,5 @@ class ViewController: UIViewController {
         // バーコードを画像化
         barcode.image = code
     }
-
-
 }
 
